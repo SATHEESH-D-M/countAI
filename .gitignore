@@ -1,7 +1,7 @@
 # Ignore logs
 log/
 *.log
-
+*.csv
 # Ignore augmented images
 augmented_data/
 
