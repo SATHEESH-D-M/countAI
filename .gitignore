@@ -1,0 +1,13 @@
+# Ignore logs
+log/
+*.log
+
+# Ignore augmented images
+augmented_data/
+
+# Optional: Ignore Python cache & temp files
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+
